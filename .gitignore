@@ -1,0 +1,9 @@
+.env
+*.env.local
+*.zip
+node_modules/
+src/
+tsconfig.json
+*.js.map
+.DS_Store
+Thumbs.db
